@@ -75,11 +75,11 @@ Here are some examples of the visualizations included in the dashboard:
 ## How to Access the Dashboard
 
 1. __Static Report__:
-  * Download the PDF report from the /reports folder for a comprehensive summary of the analysis.
+    * Download the PDF report from the /reports folder for a comprehensive summary of the analysis.
 2. __Interactive Dashboard__:
-  * Download the .pbix file from the /dashboard folder and open it using Power BI Desktop for an interactive experience.
+    * Download the .pbix file from the /dashboard folder and open it using Power BI Desktop for an interactive experience.
 3. __Screenshots__:
-  * Preview key visualizations in the /images folder.
+    * Preview key visualizations in the /images folder.
 
 ***
 
