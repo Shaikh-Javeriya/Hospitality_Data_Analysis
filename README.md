@@ -19,23 +19,23 @@ To address these challenges, the management sought to leverage Business and Data
 
 ## Insights and Highlights
 
-##### 1. Revenue Trends
+### 1. Revenue Trends
 * __Total Revenue__: ₹1.69 billion.
 * __Revenue Distribution__:
   * __Luxury Segment__: ₹1.04 billion (61.62% of total revenue).
   * __Business Segment__: ₹0.65 billion (38.38% of total revenue).
 * __Weekly Revenue__: Weekends consistently outperformed weekdays in revenue generation.
 
-##### 2. Key Metrics
+### 2. Key Metrics
 * __RevPAR (Revenue Per Available Room)__:
-  * __Overall: ₹7,337__
-  * __Weekday: ₹7,083__
-  * __Weekend: ₹7,972__
+  * __Overall__: ₹7,337
+  * __Weekday__: ₹7,083
+  * __Weekend__: ₹7,972
 * __ADR (Average Daily Rate)__: ₹12,695
 * __Occupancy Rate__: 57.8%
 * __Realization Rate__: 70.1%
 
-##### 3. City and Property Insights
+### 3. City and Property Insights
 * __Top Performing Cities__:
   * __Mumbai__: Highest revenue and occupancy rates.
   * __Delhi__: Strong ADR but moderate occupancy.
@@ -44,10 +44,10 @@ To address these challenges, the management sought to leverage Business and Data
 * __Best Properties__: AtliQ Exotica in Mumbai achieved the highest ratings and revenue contribution.
 * __Improvement Areas__: Properties in Hyderabad and lower-tier properties in Mumbai show high cancellation rates and low occupancy.
 
-##### 4. Booking Platforms
+### 4. Booking Platforms
 * Direct bookings provide the highest realization percentage (70.6%), while aggregator platforms show lower returns.
 
-##### 5. Cancellation Rates and Ratings
+### 5. Cancellation Rates and Ratings
 * Average cancellation rate: 24.84%.
 * Properties with higher cancellation rates also tend to have lower ratings.
 
