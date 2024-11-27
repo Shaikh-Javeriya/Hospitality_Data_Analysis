@@ -1,15 +1,15 @@
-#AtliQ Grands Hotel Dashboard
+# AtliQ Grands Hotel Dashboard #
 
 ***
 
-##Project Overview
+## Project Overview ##
 AtliQ Grands, a prominent five-star hotel chain in India, has been in the hospitality industry for over 20 years. Recently, they have faced challenges due to competitors' strategic moves and ineffective decision-making, resulting in declining market share and revenue in the luxury and business hotel segments.
 
 To address these challenges, the management sought to leverage Business and Data Intelligence for insights from historical data. This Power BI dashboard provides actionable insights to help AtliQ Grands regain their market share and revenue.
 
 ***
 
-##Key Features
+## Key Features ##
 *Revenue Analysis: Trends across weeks and categories (business vs. luxury).
 *Performance Metrics: RevPAR, ADR, Occupancy %, and Realization % by city, category, and booking platform.
 *Booking Insights: Analysis of booking trends across various platforms (direct bookings, aggregators, etc.).
@@ -17,16 +17,16 @@ To address these challenges, the management sought to leverage Business and Data
 
 ***
 
-##Insights and Highlights
+## Insights and Highlights
 
-#####1. Revenue Trends
+##### 1. Revenue Trends
 * __Total Revenue__: ₹1.69 billion.
 * __Revenue Distribution__:
   * __Luxury Segment__: ₹1.04 billion (61.62% of total revenue).
   * __Business Segment__: ₹0.65 billion (38.38% of total revenue).
 * __Weekly Revenue__: Weekends consistently outperformed weekdays in revenue generation.
 
-#####2. Key Metrics
+##### 2. Key Metrics
 * __RevPAR (Revenue Per Available Room)__:
   * __Overall: ₹7,337__
   * __Weekday: ₹7,083__
@@ -35,7 +35,7 @@ To address these challenges, the management sought to leverage Business and Data
 * __Occupancy Rate__: 57.8%
 * __Realization Rate__: 70.1%
 
-#####3. City and Property Insights
+##### 3. City and Property Insights
 * __Top Performing Cities__:
   * __Mumbai__: Highest revenue and occupancy rates.
   * __Delhi__: Strong ADR but moderate occupancy.
@@ -44,16 +44,16 @@ To address these challenges, the management sought to leverage Business and Data
 * __Best Properties__: AtliQ Exotica in Mumbai achieved the highest ratings and revenue contribution.
 * __Improvement Areas__: Properties in Hyderabad and lower-tier properties in Mumbai show high cancellation rates and low occupancy.
 
-#####4. Booking Platforms
+##### 4. Booking Platforms
 * Direct bookings provide the highest realization percentage (70.6%), while aggregator platforms show lower returns.
 
-#####5. Cancellation Rates and Ratings
+##### 5. Cancellation Rates and Ratings
 * Average cancellation rate: 24.84%.
 * Properties with higher cancellation rates also tend to have lower ratings.
 
 ***
 
-##Visualizations
+## Visualizations
 Here are some examples of the visualizations included in the dashboard:
 
 1. __Revenue by Week and Day Type__: Bar and line charts showcasing revenue trends for weekdays vs. weekends.
@@ -64,7 +64,7 @@ Here are some examples of the visualizations included in the dashboard:
 
 ***
 
-##Technologies Used
+## Technologies Used
 
 * __Power BI__: For dashboard creation and interactive visualizations.
 * __Excel__: Used for data cleaning and transformation.
@@ -72,7 +72,7 @@ Here are some examples of the visualizations included in the dashboard:
 
 ***
 
-##How to Access the Dashboard
+## How to Access the Dashboard
 
 1. __Static Report__:
   * Download the PDF report from the /reports folder for a comprehensive summary of the analysis.
@@ -83,7 +83,7 @@ Here are some examples of the visualizations included in the dashboard:
 
 ***
 
-##Future Work
+## Future Work
 
 * Expand analysis to include customer demographics and feedback trends.
 * Incorporate predictive modeling to forecast revenue and occupancy.
@@ -91,9 +91,9 @@ Here are some examples of the visualizations included in the dashboard:
 
 ***
 
-##Contact
+## Contact
 For questions or feedback regarding this project, feel free to reach out:
 
-Email: [skjaveriya.11@gmail.com]
-LinkedIn: []
-GitHub: []
+* Email: [skjaveriya.11@gmail.com]
+* LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
+* GitHub: []
